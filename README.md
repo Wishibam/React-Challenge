@@ -1,16 +1,14 @@
 # Wishibam React Challenge
 
-Coding challenge or existing code?
-==================================
+## Coding challenge or existing code?
 
-This [coding challenge] is optional if you already have some code that you're proud of and can share with us.
+This [coding challenge](#Challenge) is optional if you already have some code that you're proud of and can share with us.
 Regardless of whether it's your own code or our coding challenge, please add to your README:
 * Trade-offs you might have made, anything you left out, or what you might do differently if you were to spend additional time on the project.
 * Link to other code you're particularly proud of.
 * Link to to the hosted application if applicable.
 
-How we review
--------------
+### How we review
 
 Your application will be reviewed by at least three of our engineers. We do take into consideration your experience level.
 
@@ -33,6 +31,5 @@ Bonus point (those items are optional):
 * **Scalability**: will technical choices scale well? If not, is there a discussion of those choices in the README? 
 * **Production-readiness**: does the code include monitoring? logging? proper error handling?
 
-Coding Challenge
-----------------
+## Challenge
 
