@@ -16,8 +16,8 @@ Your application will be reviewed by at least two of our engineers. We do take i
 
 The aspects of your code we will assess include:
 
-* **Architecture**: how clean is the separation between the front-end and the back-end?
-* **Clarity**: does the README clearly and concisely explains the problem and solution? Are technical tradeoffs explained?
+* **Architecture**: how clean is the separation between components?
+* **Clarity**: does the README clearly and concisely explains the problems encountered and the solutions? Are technical tradeoffs explained?
 * **Correctness**: does the application do what was asked? If there is anything missing, does the README explain why it is missing?
 * **Code quality**: is the code simple, easy to understand, and maintainable?  Are there any code smells or other red flags? Does object-oriented code follows principles such as the single responsibility principle? Is the coding style consistent with the language's guidelines? Is it consistent throughout the codebase?
 * **Security**: are there any obvious vulnerability?
