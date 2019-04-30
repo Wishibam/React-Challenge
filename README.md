@@ -33,7 +33,7 @@ Bonus point (those items are optional):
 
 ## Challenge
 
-Create a react application that is, basicly, a clone of [Hacker news](https://news.ycombinator.com/). The application will have two categories of stories: Top stories and New stories. These stories should be fetched using Hacker news [API](https://github.com/HackerNews/API).
-You can use any library or utilities you want, it is all up to you. For example, you can get your project started with [create-react-app](https://github.com/facebook/create-react-app).
+Create a react application which is, basicly, a clone of [Hacker news](https://news.ycombinator.com/). The application will have two categories of stories: Top stories and New stories. These stories should be fetched using Hacker news [API](https://github.com/HackerNews/API).
+You are free to use any library you want. For example, you can get your project started with [create-react-app](https://github.com/facebook/create-react-app).
 
 Happy hacking!
